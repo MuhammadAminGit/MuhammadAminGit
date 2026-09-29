@@ -13,9 +13,9 @@ Backend and AI engineer at <b>InsiValley</b>, Lahore. I build voice agents that 
 
 ### What I work on
 
+- **Naka VPN** (60K monthly users): led analytics and reliability work, fixed the billing retries behind most lost subscriptions, and built the private DNS edge.
 - **Floch.ai**: built it from the first commit to production. Businesses design voice agents on a visual canvas and put them on real phone numbers, with replies in under 1.5 seconds.
 - **Rangin.ai**: built the product search end to end. 140K+ products from five stores, cross-store results in under a second.
-- **Naka VPN** (60K monthly users): led analytics and reliability work, fixed the billing retries behind most lost subscriptions, and built the private DNS edge.
 
 ### Projects
 
