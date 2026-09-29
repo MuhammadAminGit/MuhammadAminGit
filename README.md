@@ -17,7 +17,7 @@ Backend and AI engineer at <b>InsiValley</b>, Lahore. I build voice agents, sear
 - **Rangin.ai**: voice-first shopping assistant with semantic search over 140K+ products from five stores, answering in under a second.
 - **Naka VPN**: analytics, subscription retry fixes, and a private DNS edge across nine exit nodes for an iOS app with 60K monthly users.
 
-### Open source
+### Projects
 
 | Project | What it is | Result |
 | --- | --- | --- |
